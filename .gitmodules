@@ -1,0 +1,3 @@
+[submodule "src/holodeck"]
+	path = src/holodeck
+	url = git@github.com:sethmnielsen/holodeck
